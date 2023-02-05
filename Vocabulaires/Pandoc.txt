@@ -1,0 +1,2 @@
+cd E:\GitHub\Le français\Vocabulaires
+pandoc -o Vocabulaires.tex Vocabulaires.html
